@@ -1,0 +1,32 @@
+*{
+  background-color: white;  
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+    background-color: rgb(22, 22, 22);
+    width: 1215px;
+    
+}
+
+a{
+    background-color: rgb(22,22,22);
+    padding: 0px;
+    margin: 0px;
+    margin-top: 50px;
+    border: 0px;
+    color: white;
+    text-decoration: none;
+    font-size: .9rem;
+    margin-top: 0px;
+    border: solid 1px pink;
+}
+#UOL{
+    height: 30px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 4px;
+    border: 0px;
+
+}
